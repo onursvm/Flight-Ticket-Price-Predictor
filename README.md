@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.kaggle.com/code/onursvm/flight-ticket-price-prediction">
+    <img src="https://img.shields.io/badge/Review_on_Kaggle_Notebook-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white&labelColor=0d1117" alt="Review on Kaggle Notebook">
+  </a>
+</p>
+
 # ✈️ Flight Ticket Price Prediction
 
 A machine learning project for predicting airline ticket prices using flight-related features such as airline, route, departure/arrival time, flight duration, number of stops, travel class, and date information.
